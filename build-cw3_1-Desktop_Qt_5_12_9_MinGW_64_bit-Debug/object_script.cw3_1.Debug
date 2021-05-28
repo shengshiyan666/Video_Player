@@ -1,0 +1,13 @@
+debug/PlayerSlider.o
+debug/buttom_label.o
+debug/playercontrols.o
+debug/the_button.o
+debug/the_player.o
+debug/tomeo.o
+debug/videowindow.o
+debug/moc_PlayerSlider.o
+debug/moc_buttom_label.o
+debug/moc_playercontrols.o
+debug/moc_the_button.o
+debug/moc_the_player.o
+debug/moc_videowindow.o

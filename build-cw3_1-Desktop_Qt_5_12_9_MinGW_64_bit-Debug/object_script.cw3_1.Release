@@ -1,0 +1,13 @@
+release/PlayerSlider.o
+release/buttom_label.o
+release/playercontrols.o
+release/the_button.o
+release/the_player.o
+release/tomeo.o
+release/videowindow.o
+release/moc_PlayerSlider.o
+release/moc_buttom_label.o
+release/moc_playercontrols.o
+release/moc_the_button.o
+release/moc_the_player.o
+release/moc_videowindow.o
